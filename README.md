@@ -73,3 +73,8 @@ So, the sources on this repository are updated with the fixes and patches in ord
 ## History
 
 See [HISTORY.md](HISTORY.md) for a rough history of the various versions of this driver floating around the web.
+
+
+# Links of interest
+
+https://bbs.archlinux.org/viewtopic.php?id=192689
